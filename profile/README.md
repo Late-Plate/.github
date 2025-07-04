@@ -82,6 +82,12 @@ This organization contains multiple repositories for different modules of the sy
 
 ---
 
+## 📱 Mobile App Demo
+
+https://github.com/user-attachments/assets/516059cd-2e5f-48d6-9f64-2991ca8210d7
+
+---
+
 ## 👥 Team & Contribution
 
 A team of undergraduate students developed this project as part of their graduation project. Contributions and detailed module-level documentation can be found in the respective repositories.
